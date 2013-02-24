@@ -1,0 +1,3 @@
+[submodule "src/ssziparchive"]
+	path = src/ssziparchive
+	url = https://github.com/soffes/ssziparchive.git
