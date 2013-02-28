@@ -7,6 +7,7 @@
       'OS!="ios"', {
         'variables': {
           'SHARED_LIBRARY': 'shared_library',
+          'SKIP_INSTALL': 'YES',
         },
       },
     ],
@@ -17,6 +18,7 @@
         },
         'xcode_settings': {
           'SDKROOT': 'iphoneos',
+          'SKIP_INSTALL': 'YES',
         },
       },
     ],
